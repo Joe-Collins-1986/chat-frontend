@@ -25,7 +25,7 @@ const NavBar = () => {
   const loggedInIcons = (
     <>
       <NavLink
-        to="/wip"
+        to="/myprofile"
         className={styles.NavLink}
         activeClassName={styles.Active}
       >
